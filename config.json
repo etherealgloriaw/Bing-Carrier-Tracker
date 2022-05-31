@@ -1,0 +1,3 @@
+{
+    "url_index_bases": "https://www.bing.com/packagetrackingv2?packNum={0}&carrier={1}"
+}
